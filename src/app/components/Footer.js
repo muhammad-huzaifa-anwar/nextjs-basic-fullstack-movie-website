@@ -22,9 +22,9 @@ const Footer = () => {
                         <div className={footerStyles[`media-icons`]}>
                             <Link href="#"><i > <FaFacebookF/> </i></Link>
                             <Link href="#"><i > <FaTwitter/> </i> </Link>
-                            <Link href="https://www.instagram.com/thapatechnical/" target="_blank"><i > <FaInstagram/>  </i></Link>
+                            <Link href="#" target="_blank"><i > <FaInstagram/>  </i></Link>
                             <Link href="#"><i > <FaLinkedinIn /> </i></Link>
-                            <Link href="#"><i > <FaYoutube />  </i></Link>
+                   
                         </div>
                     </div>
                     <div className={footerStyles['link-boxes']}>
